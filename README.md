@@ -28,4 +28,4 @@ The goal of this assignment is to perform exploratory data analysis on the Wine 
 - **Problem 2**: Summary statistics calculated for each feature grouped by class
 - **Problem 3**: Histograms plotted to explore distributions
 - **Problem 4**: Scatter plots created to analyse feature relationships and class separation
-
+- **Problem 5**: Fitted a linear regression model to analyse the relationship between alcohol and malic acid. Plotted the regression line and displayed the R² value to assess the strength of the relationship
