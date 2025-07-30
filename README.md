@@ -7,9 +7,10 @@ The goal of this assignment is to perform exploratory data analysis on the Wine 
 
 ## Contents
 
-- `penguins.ipynb` or `problems.ipynb`: Jupyter notebook containing all the code and analysis.
-- Summary statistics for each feature by wine class (mean, standard deviation, range).
-- A visualisation of the mean values across all wine classes using a grouped bar chart.
+- `penguins.ipynb`: Jupyter notebook containing all code and analysis
+- Summary statistics for each feature by wine class (mean, standard deviation, range)
+- Visualisations of feature distributions (histograms)
+- Scatter plots comparing feature relationships, colored by wine class
 
 ## Tools Used
 
@@ -19,4 +20,12 @@ The goal of this assignment is to perform exploratory data analysis on the Wine 
 ## Notes
 
 - Due to technical issues with my local Jupyter environment, I used Google Colab to complete this work.
-- All work is my own and each task has been completed step by step with full understanding.
+- The analysis was completed through focused effort, research, and exploration, aiming to understand both the data and the tools used.
+
+## Problem Summary
+
+- **Problem 1**: Dataset loaded and explored using `shape`, `head`, and `describe()`
+- **Problem 2**: Summary statistics calculated for each feature grouped by class
+- **Problem 3**: Histograms plotted to explore distributions
+- **Problem 4**: Scatter plots created to analyse feature relationships and class separation
+
